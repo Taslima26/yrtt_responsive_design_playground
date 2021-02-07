@@ -14,6 +14,17 @@ img {
   max-width: 100%;
 }
 
+.purple-rect {
+  border: 1px solid purple;
+  background-color: beige;
+  height: 200px;
+}
+.blue-rect {
+  border: 1px solid blue;
+  background-color: bisque;
+  height: 200px;
+}
+
 @media only screen and (min-width: 600px) {
   img {
     display: block;
